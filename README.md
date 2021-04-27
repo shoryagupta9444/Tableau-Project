@@ -18,4 +18,4 @@ https://fred.stlouisfed.org
 
 https://finance.yahoo.com/quote/USA/
 
-**Colaboration With**- Amarinder Saini and Ali Aydin
+**Colaboration With**: Amarinder Saini and Ali Aydin
