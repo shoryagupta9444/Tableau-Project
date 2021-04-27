@@ -1,5 +1,11 @@
 # Prescriptive Analysis of "The Great Recession" (2007-2009) vs "COVID-19" (2020)
 
+**Software used**:
+
+1) Tableau Desktop
+2) Tableau Prep
+3) MS Excel
+
 **Key indices analyzed**:
 
 1. Unemployment Rate - Represents number of unemployed as a percentage of the labor force, restricted to people 16 years of age and older.
